@@ -1,0 +1,1567 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /home/mwriliwv/tmp/awstats/ssl/awstats.mwright0204.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2695                
+POS_VISITOR 48018               
+POS_DAY 63017               
+POS_DOMAIN 3604                
+POS_LOGIN 4252                
+POS_ROBOT 4407                
+POS_WORMS 5363                
+POS_EMAILSENDER 5494                
+POS_EMAILRECEIVER 5637                
+POS_SESSION 63928               
+POS_SIDER 64123               
+POS_FILETYPES 5772                
+POS_DOWNLOADS 6033                
+POS_OS 6462                
+POS_BROWSER 6938                
+POS_SCREENSIZE 9661                
+POS_UNKNOWNREFERER 9735                
+POS_UNKNOWNREFERERBROWSER 11036               
+POS_ORIGIN 11564               
+POS_SEREFERRALS 11705               
+POS_PAGEREFS 11907               
+POS_SEARCHWORDS 12516               
+POS_KEYWORDS 12668               
+POS_MISC 2359                
+POS_ERRORS 12727               
+POS_CLUSTER 4108                
+POS_SIDER_404 12876               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901013907 71 16226 12701812150861
+FirstTime 20240801002544
+LastTime 20240831200816
+LastUpdate 20240901083448 71 0 70 0 0
+TotalVisits 633                 
+TotalUnique 375                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 382                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 28 27077063 57 79 549140
+1 30 31 357439 86 106 442067
+2 45 49 622091 79 91 236264
+3 43 53 246293183 70 94 1342891
+4 34 67 600165896 87 118 8587776
+5 12 27 382378937 83 101 1665433
+6 19 36 584476546 106 120 817094
+7 37 55 583667482 85 106 611713
+8 66 182 1579693300 76 120 964234
+9 30 76 1019392621 69 89 970522
+10 43 88 697945940 114 136 1681590
+11 51 109 751210347 78 98 1105706
+12 66 101 317653976 138 175 23534162
+13 44 69 756334456 90 109 412785
+14 43 84 725596304 99 118 828855
+15 63 121 369926783 115 140 12181482
+16 32 49 67204951 150 172 857119
+17 28 28 110307 54 65 357584
+18 42 42 2223493 79 103 41274906
+19 38 38 1279446 69 81 31701051
+20 50 52 10170452 45 67 431572
+21 31 54 388989905 54 67 443954
+22 45 68 39825809 568 601 617845
+23 51 68 104994988 112 127 371775
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 275 542 2479595758
+jp 176 259 453638074
+cn 110 141 122960315
+ro 95 99 489150
+ca 63 63 3593345
+at 44 44 164389
+il 25 59 90978408
+dk 22 22 82201
+gb 22 143 1246130785
+bg 20 20 177922
+ru 20 20 63256
+lt 18 18 84192
+de 15 55 346952794
+in 15 15 41397
+se 11 11 40960
+fr 7 15 125134288
+ng 4 19 116816468
+be 4 4 14910
+au 3 9 412837
+it 3 3 53489
+cz 2 2 31012
+id 2 2 31012
+ph 2 2 3703
+pk 2 2 3706
+es 2 2 4483
+za 1 1 3721
+ua 2 2 7442
+vn 1 1 3721
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+blog 568 766632 20240831193125 0
+facebookexternalhit/ 165 73726343 20240831064801 0
+Googlebot/ 127 1578329 20240831175354 0
+bingbot/ 83 807879 20240831200413 0
+AhrefsBot/ 77 968932 20240831021755 0
+crawl 71 44714528 20240830071321 0
+360Spider 27 100574 20240829111350 0
+no_user_agent 24 470420 20240828104033 0
+Go\-http\-client/ 24 40580 20240827072024 0
+YandexBot/ 20 8210090 20240831035530 0
+SemrushBot/ 10 157432 20240814094841 0
+curl 8 41571 20240818075224 0
+bot[\s_+:,\.\;\/\\-] 6 22326 20240820113339 0
+scanner 4 14884 20240816213745 0
+survey 3 46542 20240808114159 0
+MJ12bot/ 2 6364 20240816082132 0
+DotBot/ 2 20024 20240803121958 0
+Dalvik/ 2 7457 20240816032901 0
+archive\.org_bot 1 3727 20240821203803 0
+[\s_+:,\.\;\/\\-]bot 1 3182 20240821182929 0
+FirePHP/ 1 3721 20240828093126 0
+checker 1 3721 20240822102201 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+html 796 9938392 0 0
+mp4 280 4948827810 0 0
+png 20 2242499 0 0
+js 144 3153297 0 0
+Unknown 2 14139 0 0
+woff2 55 5098528 0 0
+pdf 30 15544682 0 0
+css 135 2334782 0 0
+php 112 359208 0 0
+xml 1 401 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 9
+/MatthewWrightCV2024.pdf 33 1 18423137
+/sitemap.txt 29 0 4350
+/gallery/ControlRigClip.mp4 18 115 991334910
+/gallery/2024-06-02%2019-01-51.mp4 17 110 75505893
+/gallery/FoquesSenseClip.mp4 17 112 587959662
+/gallery/WaterClip.mp4 15 123 1038725066
+/gallery/QuintessenceClip.mp4 15 119 988875996
+/gallery/InvisionClip.mp4 14 100 660188432
+/gallery/PortfolioMontage.mp4 0 108 721254332
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 30
+androidnougat 13 13
+winvista 1 1
+macosx 7 7
+android10 17 11
+macosx12 6 6
+win8 3 0
+macosx6 5 5
+androidmarshmallow 2 2
+ios_iphone 493 301
+win7 53 40
+linuxubuntu 4 3
+macosx9 10 5
+win10 789 409
+linuxdebian 2 2
+winxp 8 3
+android 5 5
+androidoreo 6 2
+macosx10 2 2
+macosx7 1 1
+ios_ipad 1 1
+win8.1 9 7
+macosx15 357 36
+macosx8 5 4
+Unknown 88 52
+winnt 1 1
+macosx11 1 1
+androidkitkat 1 1
+winlong 2 0
+unix 1 1
+linux 470 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 130
+opera12.16 1 0
+safari6.0 1 1
+chrome127.0.0.0 328 17
+chrome85.0.4183.102 5 1
+chrome108.0.0.0 5 5
+chrome104.0.5112.79 5 1
+chrome81.0.1179 1 1
+chrome125.0.6422.143 20 1
+chrome112.0.5615.136 1 1
+msie9.0 1 1
+Unknown 38 34
+chrome70.0.3538.110 2 2
+chrome47.0.2526.106 1 1
+chrome79.0.3945.130 2 2
+safari17.4.1 78 4
+firefox114.0 1 1
+chrome54.0.2920 1 1
+safari7.0 1 0
+firefox102.0 2 2
+chrome78.0.3631.146 1 1
+chrome127.0.6523.4 22 5
+firefox125.0 2 2
+chrome60.0.3112.107 12 12
+safari5.1.9 1 1
+netscape5.0 3 3
+chrome66.0.3668.129 1 1
+chrome119.0.6045.199 1 0
+chrome120.0.0.0 119 17
+msie10.0 1 0
+firefox24.0 1 0
+chrome105.0.0.0 7 7
+chrome94.0.4606.81 25 25
+chrome96.0.4664.110 174 174
+chrome127.0.6533.119 1 0
+chrome91.0.4472.114 5 5
+chrome106.0.0.0 3 3
+chrome81.0.4044.129 2 2
+chrome79.0.3945.79 17 1
+chrome77.0.2561 1 1
+firefox108.0 8 8
+chrome100.0.4896.79 3 3
+opera12.12 8 8
+firefox27.3 1 1
+chrome90.0.4430.85 2 2
+firefox28.0 2 1
+chrome31.0.1650.63 12 7
+msie11.0 4 2
+chrome71.0.3606.149 1 1
+firefox25.0 12 3
+chrome78.0.3904.108 12 12
+chrome126.0.6478.182 2 0
+chrome125.0.6422.142 25 1
+firefox26.0 7 4
+msie11 2 2
+chrome124.0.6367.93 2 2
+chrome104.0.0.0 2 2
+chrome92.0.4515.159 26 1
+chrome83.0.4103.97 6 6
+chrome50.0.2661.102 10 10
+safari6.1.1 1 1
+chrome11.0.696.71 6 6
+firefox40.0 1 1
+chrome124.0.0.0 42 10
+opera89.0.4447.51 1 1
+firefox17.0 1 1
+chrome83.0.4103.106 1 1
+safari10.0 1 1
+chrome31.0.1650.57 4 1
+chrome122.0.0.0 9 9
+chrome12.0.742.91 2 0
+safari 1 1
+chrome68.0.3440.106 374 13
+chrome74.0.2537 1 1
+firefox45.0 3 3
+chrome95.0.4638.69 1 1
+chrome121.0.0.0 25 9
+firefox77.0 1 1
+chrome100.0.4896.60 11 11
+firefox122.0 39 39
+chrome127.0.6533.99 2 1
+firefox31.0 1 0
+chrome64.0.3632.192 1 1
+chrome39.0.2171.95 1 1
+chrome84.0.4147.89 1 1
+chrome101.0.4951.54 1 1
+chrome80.0.3987.162 1 1
+safari13.0.3 410 292
+chrome74.0.3371.88 1 1
+firefox127.0 1 1
+chrome114.0.0.0 8 8
+chrome97.0.4692.71 4 4
+msie6.0 2 2
+chrome78.0.3904.62 2 2
+chrome90.0.3607.112 1 1
+chrome88.0.4240.193 6 6
+chrome89.0.4389.86 1 1
+chrome61.0.3694.195 5 1
+chrome126.0.0.0 59 20
+safari6.0.5 1 0
+firefox115 3 3
+chrome103.0.5060.114 3 3
+chrome122.0.6261.94 5 1
+chrome118.0.0.0 3 3
+chrome72.0.3693.88 1 1
+firefox36.0 1 0
+chrome32.0.1700.72 1 0
+safari10.1.2 1 1
+firefox63.0 4 4
+chrome128.0.0.0 124 9
+mozilla 44 16
+chrome107.0.0.0 1 1
+chrome52.0.2717.98 1 1
+chrome66.0.3359.181 25 25
+edge18 2 2
+safari17.2 3 3
+chrome51.0.2704.103 2 2
+chrome116.0.0.0 1 1
+firefox128.0 1 1
+safari7.0.1 1 1
+firefox83.0 2 2
+chrome117.0.5938.132 20 1
+chrome126.0.6478.36 18 1
+chrome118.0.5993.80 1 1
+chrome74.0.3729.169 5 5
+chrome72.0.3626.121 1 1
+chrome68.0.3440.91 5 1
+safari12.0.2 4 4
+chrome70.0.3538.77 2 2
+chrome83.0.4103.61 3 1
+android 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Softaculous 20240828192507
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240808073706
+AHC/2.1 20240806190143
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/127.0.6533.119_Safari/537.36 20240816045311
+Mozilla/5.0_(compatible) 20240825083005
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240826135326
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/127.0.6533.99_Safari/537.36 20240809054711
+Mozilla/6.0_(compatible) 20240825082955
+python-requests/2.32.3 20240823091451
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GoogleOther)_Chrome/126.0.6478.182_Safari/537.36 20240807040730
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240827184821
+python-httpx/0.27.0 20240816070559
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240820183039
+python-requests/2.26.0 20240817121957
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240829173020
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Softaculous 20240828192507
+python-httpx/0.27.0 20240816070559
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240827184821
+AHC/2.1 20240806190143
+python-requests/2.26.0 20240817121957
+python-requests/2.32.3 20240823091451
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 636 778
+From1 7 7
+From2 3 3
+From3 13 13
+From4 307 1562
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_co_jp 1 1
+www_google_com 1 1
+www_google_fr 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+https://www.linkedin.com 3 3
+https://eliseomarquez.com/wp-login.php 1 1
+http://www.sadamateliit.ee/wp-login.php 1 1
+https://anhpham.design/wp-login.php 1 1
+https://rockstargames.greenhouse.io 1 1
+https://www.sapphiredubai.com/wp-login.php 1 1
+https://omanatravels.com/wp-login.php 1 1
+https://www.nildemcay.com/wp-login.php 1 1
+http://coprabel.com/user/login 1 1
+http://control.eqe-bg.com/dev/wp-login.php 1 1
+https://www.tukidashi-kanban.com/wp-login.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 1324 159051
+405 2 42
+403 72 648
+409 1 1201
+301 375 108120
+500 4 3200
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 607
+/js/html5shiv.min.js 6 -
+/wp-content/plugins/revslider/includes/external/page/index.php 1 http://mwright0204.com/wp-content/plugins/revslider/includes/external/page/index.php
+/.well-known/pki-validation/file.php 1 http://mwright0204.com/.well-known/pki-validation/file.php
+/alfa3.php 1 http://mwright0204.com/alfa3.php
+/wp-admin/shell20211028.php 1 http://mwright0204.com/wp-admin/shell20211028.php
+/wp-admin/network/wp-term.php 1 http://mwright0204.com/wp-admin/network/wp-term.php
+/wp-includes/images/wp-login.php 1 http://mwright0204.com/wp-includes/images/wp-login.php
+/wp-content/themes/calmly/issue.php 1 http://mwright0204.com/wp-content/themes/calmly/issue.php
+/wp-content/ice.php 1 http://mwright0204.com/wp-content/ice.php
+/_profiler/phpinfo 1 -
+/wp-config-sample.php 1 http://mwright0204.com/wp-config-sample.php
+/inc.php 1 http://mwright0204.com/inc.php
+/wp-admin/network/editor.php 1 http://mwright0204.com/wp-admin/network/editor.php
+/wp-content/themes/extol/settings.php 1 http://mwright0204.com/wp-content/themes/extol/settings.php
+/_vti_pvt/authors.pwd 2 -
+/wp-content/themes/hideo/network.php 1 http://mwright0204.com/wp-content/themes/hideo/network.php
+/wp-cron.php 1 http://mwright0204.com/wp-cron.php
+/alfaindex.php 1 http://mwright0204.com/alfaindex.php
+/wp-includes/js/jcrop/Jcrop.php 1 http://mwright0204.com/wp-includes/js/jcrop/Jcrop.php
+/wp-content/plugins/core-plugin/include.php 1 http://mwright0204.com/wp-content/plugins/core-plugin/include.php
+/Contact/blog/ 6 https://mwright0204.com/Contact/blog
+/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt 1 http://mwright0204.com/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt
+/wp-header.php 2 -
+/uploads/Alex-Cross.php 1 http://mwright0204.com/uploads/Alex-Cross.php
+/core 2 -
+/wp-includes/Text/themes.php 1 http://mwright0204.com/wp-includes/Text/themes.php
+/XxX.php 1 http://mwright0204.com/XxX.php
+/dropdown.php 2 -
+/wp-content/uploads/json.php 1 http://mwright0204.com/wp-content/uploads/json.php
+/member/templets/images/icon1.gif 1 http://mwright0204.com/member/templets/images/icon1.gif
+/.well-known/pki-validation/moon.php 1 http://mwright0204.com/.well-known/pki-validation/moon.php
+/_all_dbs 1 -
+/wp-admin/images/index.php 1 http://mwright0204.com/wp-admin/images/index.php
+/menu.php 1 http://mwright0204.com/menu.php
+/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt 1 http://mwright0204.com/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt
+/444.php 1 http://mwright0204.com/444.php
+/wp-content/masshp.php 1 http://mwright0204.com/wp-content/masshp.php
+/oldsite/wp-admin/install.php 1 -
+/wp-content/plugins/ubh/up.php 1 http://mwright0204.com/wp-content/plugins/ubh/up.php
+/home 1 -
+//xmlrpc.php 7 -
+/old 3 -
+/wp-content/plugins/Cache/Cache.php 1 http://mwright0204.com/wp-content/plugins/Cache/Cache.php
+/wp-admin/maint/wp-mail.php 1 http://mwright0204.com/wp-admin/maint/wp-mail.php
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/etc/shadow 2 -
+/wp-admin/js/network.php 1 http://mwright0204.com/wp-admin/js/network.php
+/wp-includes/js/jquery/jquery.js 2 -
+/info.php 1 -
+/temp/ 1 -
+/sidwsi.PhP7 1 http://mwright0204.com/sidwsi.PhP7
+/wp-admin/network/XFEnd.php 1 http://mwright0204.com/wp-admin/network/XFEnd.php
+/wp-content/themes/travelscape/json.php 1 http://mwright0204.com/wp-content/themes/travelscape/json.php
+/wp-db.php 1 http://mwright0204.com/wp-db.php
+/cms/wp-admin/install.php 1 -
+/about 1 -
+/wp-blog-header.php 1 http://mwright0204.com/wp-blog-header.php
+/Enigma.php 1 http://mwright0204.com/Enigma.php
+/wp-content/uploads/index.php 1 http://mwright0204.com/wp-content/uploads/index.php
+/src/hardhat.config.ts 2 -
+/newsite 2 -
+/wp-content/style-css.php 1 http://mwright0204.com/wp-content/style-css.php
+/xmlrpc.php 1 http://mwright0204.com/xmlrpc.php
+/network/SDGDG.php 1 http://mwright0204.com/network/SDGDG.php
+/wp-conflg.php 1 http://mwright0204.com/wp-conflg.php
+/keystore.json 2 -
+/shell.php 1 http://mwright0204.com/shell.php
+/wp-content/themes/arvana/400.php 1 http://mwright0204.com/wp-content/themes/arvana/400.php
+/wp-content/themes/upamana/mobile.php 2 http://mwright0204.com/wp-content/themes/upamana/mobile.php
+/x/index.php 1 http://mwright0204.com/x/index.php
+/wp-content/uploads/duck.php 1 http://mwright0204.com/wp-content/uploads/duck.php
+/README.md 1 http://mwright0204.com/README.md
+/ALFA_DATA/alfacgiapi/c99.php 1 http://mwright0204.com/ALFA_DATA/alfacgiapi/c99.php
+/.well-known/pki-validation/xmrlpc.php 1 http://mwright0204.com/.well-known/pki-validation/xmrlpc.php
+/c.php 1 http://mwright0204.com/c.php
+/server.key 2 -
+/backup.tar.gz 2 -
+/wp-includes/Text/wp-login.php 1 http://mwright0204.com/wp-includes/Text/wp-login.php
+/wp-admin/dropdown.php 1 http://mwright0204.com/wp-admin/dropdown.php
+/site/as.php 1 http://mwright0204.com/site/as.php
+/wp-admin/images/admin.php 1 http://mwright0204.com/wp-admin/images/admin.php
+/.well-known/atomlib.php 1 http://mwright0204.com/.well-known/atomlib.php
+/wp-content/plugins/pwnd/pwnd.php 2 -
+/uploads/b374k.php 1 http://mwright0204.com/uploads/b374k.php
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/priv8.php 1 http://mwright0204.com/priv8.php
+/wp-content/themes/sketch/404.php 1 http://mwright0204.com/wp-content/themes/sketch/404.php
+/batm.php 1 http://mwright0204.com/batm.php
+//2020/wp-includes/wlwmanifest.xml 5 -
+/test/ 1 -
+/wp-admin/css/colors/index.php 1 http://mwright0204.com/wp-admin/css/colors/index.php
+/wp-content/plugins/hello.php 1 http://mwright0204.com/wp-content/plugins/hello.php
+/indosec.php 1 http://mwright0204.com/indosec.php
+/bs1.php 1 http://mwright0204.com/bs1.php
+/rxr.php 1 http://mwright0204.com/rxr.php
+/new.PhP7 1 http://mwright0204.com/new.PhP7
+/_vti_pvt/administrators.pwd 2 -
+/env.js 2 -
+/.tmb/cloud.php 1 http://mwright0204.com/.tmb/cloud.php
+/class.api.php 2 http://mwright0204.com/class.api.php
+/wp-includes/customize/atomlib.php 1 http://mwright0204.com/wp-includes/customize/atomlib.php
+/secrets.json 2 -
+/ioxi002.PhP7 1 http://mwright0204.com/ioxi002.PhP7
+/lock360.php 1 http://mwright0204.com/lock360.php
+/wp/ 1 -
+/wp/wp-admin/install.php 1 -
+/wp-content/upgrade/pdf.php 1 http://mwright0204.com/wp-content/upgrade/pdf.php
+/wp-content/shell20211028.php 1 http://mwright0204.com/wp-content/shell20211028.php
+/wp-signup.php 1 http://mwright0204.com/wp-signup.php
+/humans.txt 1 http://www.mwright0204.com/humans.txt
+/images/autoload_classmap.php 1 http://mwright0204.com/images/autoload_classmap.php
+/config/database.php 2 -
+/sites/default/files/ 2 binance.com
+/test 3 -
+/wp-admin/network/SDGDG.php 1 http://mwright0204.com/wp-admin/network/SDGDG.php
+/config/hardhat.config.ts 2 -
+/wp-content/themes/travel/issue.phpp 1 http://mwright0204.com/wp-content/themes/travel/issue.phpp
+/wp-content/uploads/2023/02/zdexnz.php 1 http://mwright0204.com/wp-content/uploads/2023/02/zdexnz.php
+/site/wp-admin/install.php 1 -
+/.well-known/pki-validation/worksec.php 1 http://mwright0204.com/.well-known/pki-validation/worksec.php
+/uploader.php 1 http://mwright0204.com/uploader.php
+/images/img.php 1 http://mwright0204.com/images/img.php
+//sito/wp-includes/wlwmanifest.xml 9 -
+//wordpress/wp-includes/wlwmanifest.xml 11 -
+/images/wp-login.php 1 http://mwright0204.com/images/wp-login.php
+/wp-includes/rest-api/about.php 1 http://mwright0204.com/wp-includes/rest-api/about.php
+/defaults.php 1 http://mwright0204.com/defaults.php
+/wp-admin.php 1 http://mwright0204.com/wp-admin.php
+/wp-includes/ID3/about.php 1 http://mwright0204.com/wp-includes/ID3/about.php
+/wp-includes/Requests/about.php 1 http://mwright0204.com/wp-includes/Requests/about.php
+/img/icon-logo.svg 2 -
+/jp.php 1 http://mwright0204.com/jp.php
+/wp-includes/feed-atom-comments-meta.php 1 http://mwright0204.com/wp-includes/feed-atom-comments-meta.php
+/wordpress/wp-includes/js/tinymce/radio.php 1 http://mwright0204.com/wordpress/wp-includes/js/tinymce/radio.php
+/about.php 3 -
+/xml.php 1 http://mwright0204.com/xml.php
+/wp-admin/maint/index.php 1 http://mwright0204.com/wp-admin/maint/index.php
+/wp-atom.php 1 -
+/cux.php 1 http://mwright0204.com/cux.php
+/xx.php/wp-cron.php 1 http://mwright0204.com/xx.php/wp-cron.php
+/moon.php 1 http://mwright0204.com/moon.php
+/.ssh/id_ecdsa 2 -
+/wordpress/wp-admin/setup-config.php 1 http://mwright0204.com/wordpress/wp-admin/setup-config.php
+/wp-includes/Text/about.php 1 http://mwright0204.com/wp-includes/Text/about.php
+/fw.php 1 http://mwright0204.com/fw.php
+/class.php 1 http://mwright0204.com/class.php
+/files/ 2 binance.com
+/robots.txt 167 -
+/xx.php 1 http://mwright0204.com/xx.php
+/simple.php 3 -
+/WSOEnigma.php 1 http://mwright0204.com/WSOEnigma.php
+/user_secrets.yml 2 -
+/wp-content/plugins/pwnd-1/pwnd.php 1 -
+/templates/beez3/index.php 1 http://mwright0204.com/templates/beez3/index.php
+/wp-includes/random_compat/about.php 1 http://mwright0204.com/wp-includes/random_compat/about.php
+/.well-known/about.php 1 http://mwright0204.com/.well-known/about.php
+//web/wp-includes/wlwmanifest.xml 11 -
+/version.php 1 http://mwright0204.com/version.php
+/wp-content/plugins/dummyyummy/wp-signup.php 1 http://mwright0204.com/wp-content/plugins/dummyyummy/wp-signup.php
+/upgrade.php 1 http://mwright0204.com/upgrade.php
+/wp-admin/admin.php 1 http://mwright0204.com/wp-admin/admin.php
+/js/about.php 1 http://mwright0204.com/js/about.php
+/wp-content/themes.php 1 http://mwright0204.com/wp-content/themes.php
+/images/Marvins.php 1 http://mwright0204.com/images/Marvins.php
+/wp-includes/product.php 1 http://mwright0204.com/wp-includes/product.php
+/991176.php 1 http://mwright0204.com/991176.php
+/sitemap_index.xml 33 -
+/wp-content/plugins/core/include.php 1 http://mwright0204.com/wp-content/plugins/core/include.php
+/database.sql 2 -
+/.aws/credentials.gpg 2 -
+/user-new.php 1 http://mwright0204.com/user-new.php
+//wp-includes/ID3/license.txt 1 -
+/css/index.php 1 http://mwright0204.com/css/index.php
+/marijuana.php 1 http://mwright0204.com/marijuana.php
+/wp-admin/user/xmrlpc.php 1 http://mwright0204.com/wp-admin/user/xmrlpc.php
+/templates/beez3/error.php 1 http://mwright0204.com/templates/beez3/error.php
+//wp-includes/wlwmanifest.xml 9 -
+/wp-cached.php 1 http://mwright0204.com/wp-cached.php
+/themes.php 2 http://mwright0204.com/themes.php
+/.well-known/admin.php 1 http://mwright0204.com/.well-known/admin.php
+/cong.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/content.php 1 http://mwright0204.com/wp-includes/js/tinymce/plugins/compat3x/content.php
+/wp-content/themes/seotheme/db.php 4 www.google.com
+/etc/ssl/private/server.key 2 -
+/wp-admin/images/xmrlpc.php 1 http://mwright0204.com/wp-admin/images/xmrlpc.php
+/wp-admin/js/index.php 1 http://mwright0204.com/wp-admin/js/index.php
+/data.php 1 http://mwright0204.com/data.php
+/assets/dropdown.php 1 http://mwright0204.com/assets/dropdown.php
+/radio.php 2 -
+/doc.php 1 http://mwright0204.com/doc.php
+/wp-content/plugins/pwnd/autoload_classmap.php 1 http://mwright0204.com/wp-content/plugins/pwnd/autoload_classmap.php
+/shell20211028.php 1 http://mwright0204.com/shell20211028.php
+/config.yml 2 -
+/wp-content/languages/index.php 1 http://mwright0204.com/wp-content/languages/index.php
+/wp-links.php 1 http://mwright0204.com/wp-links.php
+/wordpress/wp-admin/install.php 1 -
+/phpinfo.php 4 -
+/wp-admin/css/colors/blue/index.php 1 http://mwright0204.com/wp-admin/css/colors/blue/index.php
+//media/wp-includes/wlwmanifest.xml 6 -
+/wp-content/plugins/index.php 1 http://mwright0204.com/wp-content/plugins/index.php
+/wp-admin/network/xmrlpc.php 1 http://mwright0204.com/wp-admin/network/xmrlpc.php
+/index/function.php 1 http://mwright0204.com/index/function.php
+/wp-admin/css/about.php 1 http://mwright0204.com/wp-admin/css/about.php
+/wp-commentin.php 1 http://mwright0204.com/wp-commentin.php
+/ads.txt 3 http://mwright0204.com/ads.txt
+/web.php 1 http://mwright0204.com/web.php
+/autoload_classmap.php 1 http://mwright0204.com/autoload_classmap.php
+/contact.php 1 http://mwright0204.com/contact.php
+/Contact/Contact/ 3 -
+/plus/img/df_dedetitle.gif 1 http://mwright0204.com/plus/img/df_dedetitle.gif
+/wp-content/plugins/alfa-rex.php 1 http://mwright0204.com/wp-content/plugins/alfa-rex.php
+/css/wp-blog.php 1 http://mwright0204.com/css/wp-blog.php
+/meta.json 2 -
+/wp-admin/setup-config.php 10 -
+/test/wp-admin/install.php 1 -
+/haxor.php 1 http://mwright0204.com/haxor.php
+/wp-admin/js/about.php 1 http://mwright0204.com/wp-admin/js/about.php
+/.rxr.php 1 http://mwright0204.com/.rxr.php
+/en/index.php 1 http://mwright0204.com/en/index.php
+/small.php 1 http://mwright0204.com/small.php
+/img/icon-logo-red.svg 2 -
+/.well-known/pki-validation/wp.php 1 http://mwright0204.com/.well-known/pki-validation/wp.php
+/test.php 1 http://mwright0204.com/test.php
+/xt/index.php 1 http://mwright0204.com/xt/index.php
+/rc.php 1 http://mwright0204.com/rc.php
+/wp-admin/wso.php 1 http://mwright0204.com/wp-admin/wso.php
+//shop/wp-includes/wlwmanifest.xml 11 -
+/admin/controller/extension/extension/ 2 binance.com
+/.well-known/acme-challenge/xmrlpc.php 1 http://mwright0204.com/.well-known/acme-challenge/xmrlpc.php
+//2019/wp-includes/wlwmanifest.xml 11 -
+//wp/wp-includes/wlwmanifest.xml 11 -
+/wp-content/themes/appetizo/400.php 1 http://mwright0204.com/wp-content/themes/appetizo/400.php
+/copypaths.php 1 http://mwright0204.com/copypaths.php
+/user.php 1 http://mwright0204.com/user.php
+/wp-admin/network/MdFvb.php 1 http://mwright0204.com/wp-admin/network/MdFvb.php
+/wp-includes/customize/about.php 1 http://mwright0204.com/wp-includes/customize/about.php
+/fm1.php 1 http://mwright0204.com/fm1.php
+/ALFA_DATA/alfacgiapi/perl.alfa 3 www.google.com
+/wp-includes/js/tinymce/radio.php 1 http://mwright0204.com/wp-includes/js/tinymce/radio.php
+/wp-admin/install.php 9 -
+/images/v1.php 1 http://mwright0204.com/images/v1.php
+/goods.php 1 http://mwright0204.com/goods.php
+/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt 1 http://mwright0204.com/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt
+/1.php 2 http://mwright0204.com/1.php
+/lock.php 1 http://mwright0204.com/lock.php
+/customize.php 1 http://mwright0204.com/customize.php
+/login.action 1 -
+/atomlib.php 1 http://mwright0204.com/atomlib.php
+/1337.php 1 http://mwright0204.com/1337.php
+/ova.phpalfa 1 http://mwright0204.com/ova.phpalfa
+/wp-includes/fonts/index.php 1 http://mwright0204.com/wp-includes/fonts/index.php
+/wp-admin/css/colors/blue/uploader.php 1 http://mwright0204.com/wp-admin/css/colors/blue/uploader.php
+/alfa.php 1 http://mwright0204.com/alfa.php
+/.well-known/acme-challenge/upfile.php 1 http://mwright0204.com/.well-known/acme-challenge/upfile.php
+/administrator/index.php 3 -
+/.well-known/pki-validation/admin.php 1 http://mwright0204.com/.well-known/pki-validation/admin.php
+/v2/_catalog 1 -
+/randkeyword.php 1 http://mwright0204.com/randkeyword.php
+/wp-includes/images/media/about.php 1 http://mwright0204.com/wp-includes/images/media/about.php
+/wp-content/plugins/dzs-zoomsounds/savepng.php 5 -
+/assets/library.php 1 http://mwright0204.com/assets/library.php
+/wp-content/item.php 1 http://mwright0204.com/wp-content/item.php
+//2018/wp-includes/wlwmanifest.xml 6 -
+/wp-content/radio.php 1 http://mwright0204.com/wp-content/radio.php
+/wp-includes/class-json-meta.php 1 http://mwright0204.com/wp-includes/class-json-meta.php
+/mage.php 1 http://mwright0204.com/mage.php
+/.inc/403.php 1 http://mwright0204.com/.inc/403.php
+/cloud-config.yml 2 -
+/wp-2018.php 1 http://mwright0204.com/wp-2018.php
+/Contact/linkedin.com/in/mwright0204/ 5 https://mwright0204.com/Contact/linkedin.com/in/mwright0204
+/static/admin/javascript/hetong.js 3 -
+/alfanew.php 1 -
+/ALFA_DATA/alfacgiapi/ups.php 1 http://mwright0204.com/ALFA_DATA/alfacgiapi/ups.php
+/include/ckeditor/images/addon.gif 1 http://mwright0204.com/include/ckeditor/images/addon.gif
+/chosen.php 1 http://mwright0204.com/chosen.php
+/plugin.php 1 http://mwright0204.com/plugin.php
+/admin.php 2 -
+/wp-content/mah.php 1 http://mwright0204.com/wp-content/mah.php
+/edit-comments.php 1 http://mwright0204.com/edit-comments.php
+/xxx.php 1 http://mwright0204.com/xxx.php
+/adminer.php 2 -
+/.well-known/pki-validation/index.php 1 http://mwright0204.com/.well-known/pki-validation/index.php
+/.well-known/security.txt 3 -
+/wp-admin/images/atomlib.php 1 http://mwright0204.com/wp-admin/images/atomlib.php
+/src/hardhat.config.js 2 -
+/old-index.php 1 http://mwright0204.com/old-index.php
+//2021/wp-includes/wlwmanifest.xml 2 -
+/classwithtostring.php 3 -
+/assets/css/403.php 1 http://mwright0204.com/assets/css/403.php
+/lufix.php 1 http://mwright0204.com/lufix.php
+/fr/priv8.php 1 http://mwright0204.com/fr/priv8.php
+/wp-content/classwithtostring.php 1 http://mwright0204.com/wp-content/classwithtostring.php
+/info 1 -
+/wp-includes/wlwmanifest.xml 3 -
+/wp-content/index.php 2 -
+/wp-includes/wp-login.php 1 http://mwright0204.com/wp-includes/wp-login.php
+/phpinfo 1 -
+/home.php 1 http://mwright0204.com/home.php
+/wp-head.php 2 -
+/api.php 1 http://mwright0204.com/api.php
+/old/ 1 -
+/linkedin.com/in/mwright0204 9 -
+/ee.php 1 http://mwright0204.com/ee.php
+/wp-cXjq2.php 1 http://mwright0204.com/wp-cXjq2.php
+/wp-admin/css/colors/blue/atomlib.php 1 http://mwright0204.com/wp-admin/css/colors/blue/atomlib.php
+/worksec.php 1 http://mwright0204.com/worksec.php
+/wp-includes/css/buttons.css 4 http://mwright0204.com/wp-includes/css/buttons.css
+/feed 2 -
+/Contact/js/html5shiv.min.js/ 4 https://mwright0204.com/Contact/js/html5shiv.min.js
+/lv.php 1 http://mwright0204.com/lv.php
+/wso112233.php 1 http://mwright0204.com/wso112233.php
+/wikindex.php 1 http://mwright0204.com/wikindex.php
+/revision.php 1 http://mwright0204.com/revision.php
+/wp-activate.php 1 http://mwright0204.com/wp-activate.php
+/wp-content/uploads/wp-login.php 1 http://mwright0204.com/wp-content/uploads/wp-login.php
+/Wordpress/wp-content/ 1 http://mwright0204.com/Wordpress/wp-content/
+/cw.php 1 http://mwright0204.com/cw.php
+//website/wp-includes/wlwmanifest.xml 9 -
+/ALFA_DATA/alfa_shtml/alfa_ssi.shtml 1 http://mwright0204.com/ALFA_DATA/alfa_shtml/alfa_ssi.shtml
+/wp-content/repeater.php 1 http://mwright0204.com/wp-content/repeater.php
+/uploads/ 2 binance.com
+/wp-content/json.php 1 http://mwright0204.com/wp-content/json.php
+//wp1/wp-includes/wlwmanifest.xml 11 -
+/wp-content/themes/panama/json.php 1 http://mwright0204.com/wp-content/themes/panama/json.php
+/security.txt 3 -
+/wp-admin/css/colors/coffee/index.php 1 http://mwright0204.com/wp-admin/css/colors/coffee/index.php
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 http://mwright0204.com/.well-known/acme-challenge/iR7SzrsOUEP.php
+/wordpress/ 3 -
+/wp-content/plugins/press/wp-class.php 1 http://mwright0204.com/wp-content/plugins/press/wp-class.php
+/web/wp-admin/install.php 1 -
+/alfa-rex.php8 1 http://mwright0204.com/alfa-rex.php8
+//site/wp-includes/wlwmanifest.xml 11 -
+/jindex.php 1 http://mwright0204.com/jindex.php
+/php_info 1 -
+/.ssh/id_rsa 2 -
+/css/class-config.php 1 http://mwright0204.com/css/class-config.php
+/b374k.php 1 http://mwright0204.com/b374k.php
+/ALFA_DATA/alfacgiapi/fw.php 1 http://mwright0204.com/ALFA_DATA/alfacgiapi/fw.php
+/.well-known/acme-challenge/cloud.php 1 http://mwright0204.com/.well-known/acme-challenge/cloud.php
+/ALFA_DATA/alfacgiapi/alfa.php 1 http://mwright0204.com/ALFA_DATA/alfacgiapi/alfa.php
+/wp-l0gin.php 1 http://mwright0204.com/wp-l0gin.php
+/.well-known/acme-challenge/install.php 1 http://mwright0204.com/.well-known/acme-challenge/install.php
+/wp-includes/fonts/wp-login.php 1 http://mwright0204.com/wp-includes/fonts/wp-login.php
+/wp-includes/Xl2023.php 1 http://mwright0204.com/wp-includes/Xl2023.php
+/install.php 1 http://mwright0204.com/install.php
+/wp-admin/includes/xmrlpc.php 1 http://mwright0204.com/wp-admin/includes/xmrlpc.php
+/bypass.php 1 http://mwright0204.com/bypass.php
+/wp-includes/SimplePie/index.php 1 http://mwright0204.com/wp-includes/SimplePie/index.php
+/.well-known/acme-challenge/file.php 1 http://mwright0204.com/.well-known/acme-challenge/file.php
+/config.php 2 -
+/.well-known/plugins.php 1 http://mwright0204.com/.well-known/plugins.php
+/wp-content/themes/finley/min.php 1 http://mwright0204.com/wp-content/themes/finley/min.php
+/upload.php 1 http://mwright0204.com/upload.php
+/wp-admin/css/colors/blue/ 1 http://mwright0204.com/wp-admin/css/colors/blue/
+/.well-known/pki-validation/bless.php 1 http://mwright0204.com/.well-known/pki-validation/bless.php
+/.ssh/id_ed25519 2 -
+/atom.xml 25 -
+/apps/admin/view/default/layui/images/face/11.gif 1 http://mwright0204.com/apps/admin/view/default/layui/images/face/11.gif
+/f.php 1 http://mwright0204.com/f.php
+/.well-known/pki-validation/doc.php 1 http://mwright0204.com/.well-known/pki-validation/doc.php
+/feed/ 1 -
+/b.php 1 http://mwright0204.com/b.php
+/wp-includes/js/quicktags.js 2 -
+/wp/menu.php 1 http://mwright0204.com/wp/menu.php
+/.well-known/js.php 1 http://mwright0204.com/.well-known/js.php
+/delpaths.php 1 http://mwright0204.com/delpaths.php
+/shop 1 -
+/xmrlpc.php 1 http://mwright0204.com/xmrlpc.php
+/config.xml 2 -
+/ioxi-rex4.php7 1 http://mwright0204.com/ioxi-rex4.php7
+/new 3 -
+/wp-content/plugins/core-stab/fmanager.php 1 http://mwright0204.com/wp-content/plugins/core-stab/fmanager.php
+/wp-admin/js/widgets/xmrlpc.php 1 http://mwright0204.com/wp-admin/js/widgets/xmrlpc.php
+/wp-admin/network/wp-login.php 1 http://mwright0204.com/wp-admin/network/wp-login.php
+/sitemaps.xml 28 -
+/s/835313e2932323e203e2236313/_/ 1 -
+/about/function.php 1 http://mwright0204.com/about/function.php
+/.well-known/pki-validation/cong.php 1 http://mwright0204.com/.well-known/pki-validation/cong.php
+/wp-content/alfa.php 1 http://mwright0204.com/wp-content/alfa.php
+/wp-content/tmpls.php 1 http://mwright0204.com/wp-content/tmpls.php
+/Public/home/js/check.js 3 -
+//feed/ 2 -
+/wp-mail.php 1 http://mwright0204.com/wp-mail.php
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 www.google.com
+/wp-content/plugins/Core-Econ/upH.php 1 http://mwright0204.com/wp-content/plugins/Core-Econ/upH.php
+/config/hardhat.config.js 2 -
+/wp-content/themes/newsreach/sett.php 1 http://mwright0204.com/wp-content/themes/newsreach/sett.php
+/wp-admin/X.php 1 http://mwright0204.com/wp-admin/X.php
+/wp-admin/network/class.php 1 http://mwright0204.com/wp-admin/network/class.php
+/function.php 1 http://mwright0204.com/function.php
+/a.php 1 http://mwright0204.com/a.php
+/log.php 1 http://mwright0204.com/log.php
+/plugins.php 1 http://mwright0204.com/plugins.php
+//test/wp-includes/wlwmanifest.xml 11 -
+/wp-content/themes/sonoran/mobile.php 1 http://mwright0204.com/wp-content/themes/sonoran/mobile.php
+/ll.php 1 -
+/wp.php 1 http://mwright0204.com/wp.php
+/wp-content/themes/suntech/css_blocks.php 1 http://mwright0204.com/wp-content/themes/suntech/css_blocks.php
+/config.json 3 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 http://mwright0204.com/wp-content/plugins/wp-db-ajax-made/wp-ajax.php
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 http://mwright0204.com/wp-includes/js/tinymce/skins/lightgray/img/index.php
+/504.php 1 http://mwright0204.com/504.php
+/dump.sql 2 -
+/.well-known/radio.php 1 http://mwright0204.com/.well-known/radio.php
+/wp-content/shell.php 1 http://mwright0204.com/wp-content/shell.php
+/mini.php 1 http://mwright0204.com/mini.php
+/.well-known/pki-validation/about.php 1 http://mwright0204.com/.well-known/pki-validation/about.php
+/hardhat.config.ts 2 -
+/wp-includes/class-wp-user-wp.php 1 http://mwright0204.com/wp-includes/class-wp-user-wp.php
+/h.php 1 http://mwright0204.com/h.php
+/.well-known/acme-challenge/LA.php 1 http://mwright0204.com/.well-known/acme-challenge/LA.php
+/wp-includes/Requests/network.php 1 http://mwright0204.com/wp-includes/Requests/network.php
+/M1.php 1 http://mwright0204.com/M1.php
+/wp-content/themes/fremo/mobile.php 1 http://mwright0204.com/wp-content/themes/fremo/mobile.php
+/fox.php 1 http://mwright0204.com/fox.php
+/.tmb/file.php 1 http://mwright0204.com/.tmb/file.php
+/lx.php 1 http://mwright0204.com/lx.php
+/testing 1 -
+/.aws/credentials 7 -
+/wp-includes/wp-class.php 1 http://mwright0204.com/wp-includes/wp-class.php
+/wp-content/updates.php 1 http://mwright0204.com/wp-content/updates.php
+/debug/default/view 1 -
+/wp-content/plugins/book-form/lndex.php 1 http://mwright0204.com/wp-content/plugins/book-form/lndex.php
+/static/admin/login.html 1 http://mwright0204.com/static/admin/login.html
+/wso.php 1 http://mwright0204.com/wso.php
+/wp 3 -
+//cms/wp-includes/wlwmanifest.xml 11 -
+/wp-admin/options.php 1 -
+/as.php 1 http://mwright0204.com/as.php
+/wp-content/plugins/pwnd-2/pwnd.php 1 -
+/editor.php 1 http://mwright0204.com/editor.php
+/wp-includes/admin.php 1 http://mwright0204.com/wp-includes/admin.php
+/alf.php 1 http://mwright0204.com/alf.php
+/indo.php 1 http://mwright0204.com/indo.php
+/fosil.php 1 http://mwright0204.com/fosil.php
+/users.php 2 -
+/wp-includes/content.php 1 http://mwright0204.com/wp-includes/content.php
+/x.php 2 http://mwright0204.com/x.php
+/wp-admin/css/colors/ocean/colour.php 1 http://mwright0204.com/wp-admin/css/colors/ocean/colour.php
+//news/wp-includes/wlwmanifest.xml 9 -
+/.well-known/pki-validation/defaults.php 1 http://mwright0204.com/.well-known/pki-validation/defaults.php
+/wp-includes/SimplePie/plugins.php 1 http://mwright0204.com/wp-includes/SimplePie/plugins.php
+/.gitlab-ci.yml 2 -
+/vote.php 1 http://mwright0204.com/vote.php
+/byp.php 1 http://mwright0204.com/byp.php
+/olux.php 1 http://mwright0204.com/olux.php
+/wp-content/batm.php 1 http://mwright0204.com/wp-content/batm.php
+/wp-includes/IXR/wp-login.php 1 http://mwright0204.com/wp-includes/IXR/wp-login.php
+/wp-content/plugins/poikdmp/index.php 1 http://mwright0204.com/wp-content/plugins/poikdmp/index.php
+/wp-admin/maint/upfile.php 1 http://mwright0204.com/wp-admin/maint/upfile.php
+/_vti_pvt/service.pwd 2 -
+/wp-content/themes/pridmag/db.php 1 http://mwright0204.com/wp-content/themes/pridmag/db.php
+/ioxi-rex3.php7 1 http://mwright0204.com/ioxi-rex3.php7
+/wp-apxupx.php 1 http://mwright0204.com/wp-apxupx.php
+/wp-info.php 1 http://mwright0204.com/wp-info.php
+/css/radio.php 1 http://mwright0204.com/css/radio.php
+/credits.php 1 http://mwright0204.com/credits.php
+/wp-2019.php 1 http://mwright0204.com/wp-2019.php
+/403.php 1 http://mwright0204.com/403.php
+/fm.php 1 http://mwright0204.com/fm.php
+/style.php 2 -
+/tanzhen.php 1 http://mwright0204.com/tanzhen.php
+/wp-includes/PHPMailer/plugins.php 1 http://mwright0204.com/wp-includes/PHPMailer/plugins.php
+/wp-22.php 1 http://mwright0204.com/wp-22.php
+/.well-known/pki-validation/classwithtostring.php 1 http://mwright0204.com/.well-known/pki-validation/classwithtostring.php
+/w0.php 1 http://mwright0204.com/w0.php
+/images/cloud.php 1 http://mwright0204.com/images/cloud.php
+/backup.sql 2 -
+/site/admin.php 1 http://mwright0204.com/site/admin.php
+/wp-content/cong.php 1 http://mwright0204.com/wp-content/cong.php
+/wp-includes/style-engine/about.php 1 http://mwright0204.com/wp-includes/style-engine/about.php
+/new-index.php 1 http://mwright0204.com/new-index.php
+/img/flags_matrix.png 2 -
+/wp-admin/network/bGc17B.php 1 http://mwright0204.com/wp-admin/network/bGc17B.php
+/wp-content/plugins/three-column-screen-layout/db.php 1 http://mwright0204.com/wp-content/plugins/three-column-screen-layout/db.php
+/docker-compose.yml 2 -
+/index.php 87 -
+/backup/wp-admin/install.php 1 -
+/style2.php 1 http://mwright0204.com/style2.php
+/Contact/js/a188dd93bb690175d5d3e8566ea2febf-bundle.js/ 4 https://mwright0204.com/Contact/js/a188dd93bb690175d5d3e8566ea2febf-bundle.js
+/mariju.php 1 http://mwright0204.com/mariju.php
+/.kube/config 2 -
+//wp2/wp-includes/wlwmanifest.xml 9 -
+/wp-includes/fm.php 1 http://mwright0204.com/wp-includes/fm.php
+/classfuns.php 1 http://mwright0204.com/classfuns.php
+/cjfuns.php 1 http://mwright0204.com/cjfuns.php
+/wp-admin/user/about.php 1 http://mwright0204.com/wp-admin/user/about.php
+/Contact/js/common-bundle.js/ 5 https://mwright0204.com/Contact/js/common-bundle.js
+/wp-content/small.php 1 http://mwright0204.com/wp-content/small.php
+/config/production.json 2 -
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 1 http://mwright0204.com//vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+/content.php 1 http://mwright0204.com/content.php
+/wordpress/logsxxyyzz.php 1 http://mwright0204.com/wordpress/logsxxyyzz.php
+/new/ 1 -
+/wp-settings.php 1 http://mwright0204.com/wp-settings.php
+/css.php 1 http://mwright0204.com/css.php
+/wp-content/themes/mtaza/mobile.php 2 http://mwright0204.com/wp-content/themes/mtaza/mobile.php
+/options.php 1 -
+/include/ckeditor/plugins/smiley/images/angel_smile.gif 1 http://mwright0204.com/include/ckeditor/plugins/smiley/images/angel_smile.gif
+/upfile.php 1 http://mwright0204.com/upfile.php
+/misc/ajax.js 3 -
+/wp-includes/widgets/include.php 1 http://mwright0204.com/wp-includes/widgets/include.php
+/wp-content/bypass.php 1 http://mwright0204.com/wp-content/bypass.php
+/hardhat.config.js 2 -
+/wp-includes/item.php 1 http://mwright0204.com/wp-includes/item.php
+/admin-post.php 1 http://mwright0204.com/admin-post.php
+/3m/wp-admin/css/colors/blue/ 1 http://mwright0204.com/3m/wp-admin/css/colors/blue/
+/wp-content/admin.php 1 http://mwright0204.com/wp-content/admin.php
+/.well-known/autoload_classmap.php 1 http://mwright0204.com/.well-known/autoload_classmap.php
+/wp-pano.php 1 http://mwright0204.com/wp-pano.php
+/wp-content/plugins/WordPressCore/include.php 1 http://mwright0204.com/wp-content/plugins/WordPressCore/include.php
+/wp-term.php 1 http://mwright0204.com/wp-term.php
+/alfacgiapi/perl.alfa 2 www.google.com
+/wp-admin/css/colors/xmrlpc.php 1 http://mwright0204.com/wp-admin/css/colors/xmrlpc.php
+/init.php 1 http://mwright0204.com/init.php
+/images/ 2 binance.com
+/wp-content/themes/worship/block-css.php 1 http://mwright0204.com/wp-content/themes/worship/block-css.php
+/scripts/hardhat.config.ts 2 -
+/backup/ 1 -
+/alfa-rex.php 2 -
+/wp-content/themes/inputs.php 1 http://mwright0204.com/wp-content/themes/inputs.php
+/ccx/index.php 1 http://mwright0204.com/ccx/index.php
+/view-source: 3 -
+/ALFA_DATA/alfacgiapi/mini.php 1 http://mwright0204.com/ALFA_DATA/alfacgiapi/mini.php
+/inputs.php 3 -
+/.DS_Store 3 -
+/wp-includes/ID3/getid3s.php 1 http://mwright0204.com/wp-includes/ID3/getid3s.php
+/wp-content/content.php 1 http://mwright0204.com/wp-content/content.php
+/m.php 1 http://mwright0204.com/m.php
+/file.php 1 http://mwright0204.com/file.php
+/server 1 -
+/wp-admin/images/wp-signup.php 1 http://mwright0204.com/wp-admin/images/wp-signup.php
+/wp-includes/rest-api/index.php 1 http://mwright0204.com/wp-includes/rest-api/index.php
+/_profiler/phpinfo.php 1 -
+/wp-content/inputs.php 1 http://mwright0204.com/wp-content/inputs.php
+/link.php 1 http://mwright0204.com/link.php
+/wp-includes/mah.php 1 http://mwright0204.com/wp-includes/mah.php
+/images/i 1 http://mwright0204.com/images/i
+/wp-content/plugins/ph-file-manager/wp-file.php 1 http://mwright0204.com/wp-content/plugins/ph-file-manager/wp-file.php
+/vendor/phpunit/phpunit/phpunit.xsd 2 -
+/alfa-rex.php56 1 http://mwright0204.com/alfa-rex.php56
+/ova-tools.php 1 http://mwright0204.com/ova-tools.php
+/new/wp-admin/install.php 1 -
+/installer.php 2 -
+/wp-includes/assets/index.php 1 http://mwright0204.com/wp-includes/assets/index.php
+/options-head.php 1 http://mwright0204.com/options-head.php
+/w.php 1 http://mwright0204.com/w.php
+/blog/hello-world/ 1 -
+/ss.php 1 http://mwright0204.com/ss.php
+/c99.php 1 http://mwright0204.com/c99.php
+/nf_tracking.php 1 http://mwright0204.com/nf_tracking.php
+/wp-content/themes/twentyfive/include.php 1 http://mwright0204.com/wp-content/themes/twentyfive/include.php
+/cache/plugins.php 1 http://mwright0204.com/cache/plugins.php
+/defaul1.php 1 http://mwright0204.com/defaul1.php
+/2index.php 1 http://mwright0204.com/2index.php
+/repeater.php 1 http://mwright0204.com/repeater.php
+/wp-content/themes/travelscape/index.php 1 http://mwright0204.com/wp-content/themes/travelscape/index.php
+/wp-content/themes/include.php 1 http://mwright0204.com/wp-content/themes/include.php
+/wp-includes/class-response.php 1 http://mwright0204.com/wp-includes/class-response.php
+/.well-known/pki-validation/cloud.php 1 http://mwright0204.com/.well-known/pki-validation/cloud.php
+/wp-HbJxZ2.php 1 http://mwright0204.com/wp-HbJxZ2.php
+/wp-login.php 3 http://www.google.com.hk
+/js/custom.php 1 http://mwright0204.com/js/custom.php
+/wp-admin/wso112233.php 1 http://mwright0204.com/wp-admin/wso112233.php
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://mwright0204.com/wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wordpress 3 -
+/text.php 1 http://mwright0204.com/text.php
+/backup.zip 2 -
+/old/wp-admin/install.php 1 -
+/mc.php 1 http://mwright0204.com/mc.php
+/php_info.php 1 -
+/wp-content/ 1 http://mwright0204.com/wp-content/
+/scripts/hardhat.config.js 2 -
+/ws.php 1 http://mwright0204.com/ws.php
+/mah.php 1 http://mwright0204.com/mah.php
+/wp-admin/about.php 1 http://mwright0204.com/wp-admin/about.php
+/wp-admin/css/index.php 1 http://mwright0204.com/wp-admin/css/index.php
+/404.php 2 -
+/telescope/requests 1 -
+/tiny.php 1 http://mwright0204.com/tiny.php
+/ini.php 1 http://mwright0204.com/ini.php
+/wp-includes/dir/wp-login.php 1 http://mwright0204.com/wp-includes/dir/wp-login.php
+/config.yaml 2 -
+/wp-admin/classwithtostring.php 1 http://mwright0204.com/wp-admin/classwithtostring.php
+/wp-includes/js/tinymce/wp-tinymce.php 1 http://mwright0204.com/wp-includes/js/tinymce/wp-tinymce.php
+/wp-content/plugins/fix/up.php 3 -
+/sitemap.xml.gz 33 -
+/s.php 1 http://mwright0204.com/s.php
+/f0x.php 1 http://mwright0204.com/f0x.php
+/wp-admin/includes/xleet-shell.php 1 http://mwright0204.com/wp-admin/includes/xleet-shell.php
+/wp-content/plugins/mmk/ava.php 1 http://mwright0204.com/wp-content/plugins/mmk/ava.php
+/media/system/js/core.js 4 http://mwright0204.com/media/system/js/core.js
+/wp-admin/css/ 3 binance.com
+/wp-admin/css/colors/blue/blue.php 1 http://mwright0204.com/wp-admin/css/colors/blue/blue.php
+/wp-admin/xleet-shell.php 1 http://mwright0204.com/wp-admin/xleet-shell.php
+/wp-content/themes/intense/block-css.php 1 http://mwright0204.com/wp-content/themes/intense/block-css.php
+/wp-admin/network/about.php 1 http://mwright0204.com/wp-admin/network/about.php
+/by.php 1 http://mwright0204.com/by.php
+/web/wp-admin/css/colors/blue/atomlib.php 1 http://mwright0204.com/web/wp-admin/css/colors/blue/atomlib.php
+/.well-known/pki-validation/alfa.php 1 http://mwright0204.com/.well-known/pki-validation/alfa.php
+/up.php 1 http://mwright0204.com/up.php
+/wp-includes/css/index.php 1 http://mwright0204.com/wp-includes/css/index.php
+/wp-content/themes/ollie/doc.php 1 http://mwright0204.com/wp-content/themes/ollie/doc.php
+/bypass403.php 1 http://mwright0204.com/bypass403.php
+/wp-2020.php 1 http://mwright0204.com/wp-2020.php
+/.vscode/sftp.json 3 -
+/js/autoload_classmap.php 1 http://mwright0204.com/js/autoload_classmap.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 382
+162.0.229.158 47 47 3392319 20240831184828
+107.173.212.161 26 26 443184 20240826022613
+82.80.244.59 24 48 88741811 20240825083005
+89.47.163.216 20 20 74712 20240821233540
+212.24.99.35 14 14 52308 20240830034242
+212.24.107.241 14 14 52296 20240831184511
+89.47.161.237 12 12 44820 20240828103128
+89.47.162.206 12 12 44826 20240825070900
+91.92.255.137 11 11 46518 20240803031633
+176.223.132.213 10 10 37362 20240831200816
+89.47.161.179 10 10 37357 20240825023911
+109.235.67.253 10 10 37362 20240826133641
+150.109.16.20 10 10 601005 20240816125140
+212.24.110.22 10 10 37369 20240828135704
+49.51.36.179 9 16 40286619 20240829000424
+49.51.204.74 9 13 18774053 20240814013804
+43.153.216.189 9 13 10504157 20240813150210
+149.56.160.227 8 8 223792 20240826135309
+124.156.193.7 8 11 10577193 20240816231509
+43.163.3.58 8 15 28614698 20240821161231
+195.181.243.11 8 8 29892 20240826105401
+195.181.242.86 8 8 29893 20240819222050
+176.223.141.62 8 8 29886 20240821013728
+3.22.167.183 8 24 286197 20240813223311
+49.51.72.76 8 10 11545748 20240813015049
+120.9.229.182 1 1 3721 20240826082149
+93.158.91.24 1 1 3727 20240803200014
+35.95.29.70 1 1 3727 20240806095750
+182.42.105.144 1 1 3721 20240823153814
+43.159.143.187 1 1 3725 20240824120842
+54.187.65.219 1 29 58926802 20240808094215
+206.189.247.132 1 1 14903 20240830080748
+54.83.123.12 1 5 95719 20240810042959
+43.128.100.220 3 7 21037620 20240805150058
+66.249.66.3 0 1 575691 
+47.251.15.21 1 1 3725 20240816200209
+170.106.82.193 2 2 7446 20240806225856
+54.149.193.202 1 1 3721 20240806073500
+149.40.50.86 1 1 14903 20240830080749
+54.202.127.56 1 31 87044420 20240822090206
+43.155.152.154 1 1 3727 20240815145218
+36.41.75.167 1 1 3721 20240803221850
+159.65.24.22 7 7 102706 20240811131243
+84.239.40.247 2 2 49768 20240803210805
+43.159.141.180 3 3 11169 20240816145946
+31.220.76.77 1 1 762 20240812175421
+5.133.192.105 1 1 3721 20240809200842
+35.90.177.33 2 2 7442 20240802100036
+43.155.136.16 0 2 18665093 
+51.155.207.225 1 32 123095105 20240814034309
+194.135.80.66 6 6 22410 20240824185514
+15.204.183.221 1 1 21075 20240818162930
+223.244.35.77 1 1 3721 20240822153947
+45.55.132.186 1 1 3721 20240824101134
+137.226.113.44 2 2 7450 20240808073706
+43.134.142.8 6 9 18874777 20240816161452
+3.101.39.20 1 1 3727 20240816231525
+65.20.97.168 1 1 3721 20240816153858
+199.244.88.220 1 1 3721 20240814175750
+206.168.34.202 1 1 3721 20240805201012
+185.253.96.10 1 1 3721 20240827073246
+54.158.8.113 1 1 3721 20240818201942
+169.150.196.181 2 2 3704 20240826220026
+34.222.166.119 2 2 7448 20240808094212
+182.44.67.97 1 1 3725 20240813210412
+133.242.174.119 1 1 3721 20240816102234
+43.159.140.236 3 8 29381301 20240820023723
+182.126.252.248 1 1 3721 20240825174216
+52.87.181.55 2 6 126046 20240816070557
+43.131.249.153 3 3 192929 20240812122354
+43.134.37.211 2 2 18667 20240814115810
+172.176.75.89 6 47 97053455 20240821114332
+113.120.185.158 1 1 3725 20240825032218
+178.254.29.124 1 1 3721 20240812154913
+198.235.24.154 1 1 15506 20240824014904
+129.226.147.7 2 5 8679771 20240816161203
+170.64.167.186 1 1 504 20240816213646
+143.244.141.34 1 1 3721 20240802084537
+95.217.18.177 2 2 7442 20240817034740
+3.87.89.178 1 1 3725 20240818202107
+71.131.247.249 1 1 3721 20240813041625
+43.155.166.202 3 6 19184410 20240815151304
+5.133.192.99 1 1 3721 20240823183836
+86.29.170.11 2 68 213125313 20240808153419
+119.96.24.54 1 1 3732 20240806220832
+117.90.100.6 1 1 3721 20240831041633
+34.222.175.128 1 23 74861858 20240818092402
+88.99.26.177 1 1 3721 20240816071129
+185.12.249.39 1 1 3721 20240802141750
+34.216.99.89 1 30 94638556 20240826102248
+123.60.68.42 2 2 7450 20240820234116
+34.215.154.140 2 2 7442 20240818092358
+34.138.179.12 2 2 31012 20240807061235
+146.190.246.147 1 1 3721 20240804084833
+149.56.150.139 1 28 126140687 20240826135324
+35.84.194.109 1 30 102041934 20240816094933
+36.150.60.24 1 1 3725 20240816031415
+43.159.63.75 6 11 38324352 20240814091857
+176.223.132.156 6 6 22410 20240830002237
+128.90.170.14 1 1 3721 20240818034256
+54.212.7.5 1 1 15506 20240811072500
+14.215.163.132 1 1 3732 20240830092453
+43.131.48.214 3 3 28517 20240812232015
+198.235.24.204 1 1 15518 20240802061230
+44.234.120.141 1 30 53895371 20240812101021
+45.84.139.202 3 3 45662 20240830131520
+44.227.127.2 1 33 164790810 20240805215717
+43.133.77.230 1 1 14942 20240811205545
+46.48.13.161 1 1 3721 20240802201525
+43.128.100.206 5 10 19127030 20240814161836
+60.31.74.132 1 1 3721 20240825122857
+147.185.132.79 1 1 15518 20240812205844
+43.130.31.48 5 6 611666 20240811205850
+43.163.6.35 4 6 18779233 20240816100907
+180.191.202.240 2 2 3703 20240830000932
+44.243.112.172 2 2 7442 20240812101018
+122.180.186.177 2 2 6364 20240805044259
+139.138.227.133 5 91 342292717 20240829043811
+49.51.47.100 2 4 142294 20240815152930
+204.15.64.226 2 2 31012 20240814010733
+43.159.128.172 2 2 7442 20240813205059
+180.110.203.108 1 1 3725 20240817005218
+49.7.227.204 2 2 7446 20240815235454
+165.227.147.243 1 1 3721 20240816094418
+43.153.84.135 2 2 77152 20240815154626
+49.51.243.156 7 14 30579197 20240814002502
+209.160.115.138 1 1 15506 20240831193123
+14.144.12.163 1 1 3725 20240818013853
+82.135.80.90 7 116 346831020 20240830080611
+49.51.179.103 2 2 7459 20240809225736
+206.168.34.39 1 1 3732 20240814100404
+3.238.53.154 1 1 3727 20240825162620
+157.230.25.148 1 1 3721 20240811035650
+43.163.1.85 2 2 36017 20240811231358
+178.254.12.183 1 1 3721 20240825081718
+54.202.133.43 1 1 3721 20240806072211
+192.3.198.160 1 1 3727 20240810190749
+43.155.183.138 3 9 57351454 20240809205756
+174.138.6.64 1 1 3727 20240826101904
+34.68.192.164 2 2 31012 20240813104111
+167.99.212.22 1 1 3721 20240830111224
+114.80.36.40 1 1 3725 20240803224553
+149.88.106.156 2 2 31012 20240807044737
+43.135.181.13 4 4 14894 20240816205656
+35.92.183.81 2 2 7448 20240814100525
+194.31.173.201 1 5 95719 20240827153539
+47.251.11.3 1 1 3727 20240816200209
+66.249.65.42 1 2 592038 20240813032547
+170.106.84.136 2 2 7446 20240827090610
+43.155.160.173 0 1 9430612 
+43.157.66.187 1 1 3725 20240801162934
+80.1.185.111 1 44 237290114 20240820132138
+43.134.170.46 3 3 30486 20240808230112
+150.109.253.34 3 3 40061 20240814124614
+57.128.65.130 1 1 3732 20240820115139
+106.75.66.103 1 1 3721 20240804100020
+205.169.39.71 2 20 53236464 20240816070521
+18.183.180.35 1 1 3721 20240802025520
+182.42.105.85 1 1 3727 20240819150225
+120.230.20.186 1 1 3727 20240818014628
+167.94.138.55 1 1 3721 20240806015610
+13.36.166.79 2 2 18624 20240831162020
+222.79.103.59 1 1 3727 20240828174317
+182.84.240.164 1 1 3721 20240814041433
+205.210.31.224 1 1 15506 20240817001314
+195.26.59.194 1 34 117546342 20240815041817
+34.223.104.157 1 30 61667534 20240830104908
+93.158.91.244 1 1 3721 20240827142415
+51.178.81.195 1 1 14903 20240830080748
+49.51.206.130 1 1 3721 20240815102430
+89.187.163.201 2 2 31012 20240803162043
+122.176.206.29 1 1 3182 20240805030710
+43.133.77.208 1 1 3732 20240812195133
+45.138.16.198 2 2 7448 20240819232404
+93.158.92.13 1 1 3721 20240818154033
+205.210.31.135 1 1 15506 20240812205648
+18.144.166.246 1 1 3727 20240830124340
+128.90.157.1 3 3 19165 20240818192829
+54.88.179.33 6 6 93048 20240820202125
+43.159.128.68 2 2 7450 20240815115302
+182.40.104.255 1 1 3721 20240825132911
+185.183.105.156 1 1 3727 20240818153444
+157.245.217.44 1 1 3721 20240806082440
+185.135.181.180 2 2 3702 20240827232255
+35.87.67.93 1 31 94095005 20240820092217
+49.51.37.224 3 4 180806 20240804002159
+42.83.147.34 3 3 11169 20240822042629
+43.130.62.164 2 2 7448 20240814205627
+18.236.160.26 1 31 97918896 20240824085620
+34.212.112.102 2 2 7448 20240810081410
+106.75.100.92 1 1 3721 20240818115755
+223.178.213.86 2 2 3705 20240804164745
+106.35.148.243 1 1 3725 20240831021647
+192.36.109.82 1 1 3727 20240808033132
+34.16.147.247 2 2 31012 20240824233741
+125.94.144.102 1 1 3721 20240830232801
+43.131.44.218 1 1 3727 20240814145146
+205.169.39.20 1 1 3721 20240811145802
+193.233.233.29 5 5 18617 20240808205118
+106.219.164.12 1 1 3182 20240828211033
+176.223.130.211 6 6 22410 20240830222424
+198.235.24.67 1 1 15518 20240806233923
+44.243.84.185 2 2 7448 20240826102246
+62.210.114.68 2 2 6909 20240810160028
+34.240.241.4 2 2 3702 20240829012907
+52.18.14.182 1 1 14942 20240806190143
+43.153.58.55 1 2 15042 20240815152122
+49.51.233.46 1 1 3732 20240830091038
+92.16.218.166 1 1 3721 20240816121401
+52.12.19.130 1 1 3182 20240806153356
+45.93.136.174 1 1 3721 20240817173204
+117.33.163.216 3 3 11180 20240826131749
+165.232.179.159 1 1 3721 20240810093116
+66.249.65.43 0 1 575691 
+205.169.39.47 1 1 3721 20240830101319
+143.198.68.8 1 1 3727 20240828084713
+74.225.148.213 1 1 762 20240831171949
+35.90.28.224 1 29 93045115 20240806095753
+43.130.3.122 6 8 8989704 20240814211152
+77.137.69.251 4 33 125123658 20240831064734
+205.210.31.232 1 1 15506 20240805164619
+18.246.163.21 1 1 3727 20240806072459
+195.10.222.124 5 101 364069236 20240813144422
+43.163.6.124 3 4 9536047 20240814231259
+195.90.221.76 2 2 7442 20240818144058
+43.134.89.111 1 1 3725 20240816120939
+182.42.111.156 1 1 3725 20240821045340
+35.91.192.7 2 2 7448 20240820092214
+147.185.132.183 1 1 15506 20240809100220
+124.236.100.56 3 3 11167 20240830004831
+82.80.249.235 1 1 3732 20240825082943
+195.211.77.140 2 2 0 20240816193652
+84.32.41.136 2 2 24420 20240813193115
+171.244.43.14 1 1 3721 20240816190613
+161.29.137.204 3 9 412837 20240815153101
+91.92.245.204 6 6 103257 20240808062047
+128.199.198.25 1 1 3721 20240823091451
+82.80.230.228 0 10 2232865 
+107.150.31.153 1 1 3721 20240816121345
+43.153.110.177 5 5 18626 20240815205639
+20.68.108.59 2 38 167241061 20240828065200
+45.186.157.90 2 2 3720 20240831024114
+212.102.63.6 1 1 3721 20240830080132
+198.235.24.254 1 1 15518 20240823151435
+106.219.161.238 1 1 3184 20240816123213
+94.176.239.43 6 6 22410 20240822202458
+154.28.229.214 1 1 3182 20240816193833
+5.133.192.94 1 1 3721 20240815215536
+167.94.145.99 1 1 3727 20240829173020
+43.135.149.154 1 1 3721 20240809144521
+43.153.80.58 1 1 316 20240815152521
+43.133.38.182 1 1 3732 20240809115340
+43.128.110.17 2 2 7446 20240816230940
+54.203.123.61 1 1 3727 20240806072958
+164.92.132.200 1 1 3721 20240822033616
+54.185.75.25 2 2 7442 20240822090205
+170.106.104.42 2 2 7450 20240825033722
+198.235.24.202 1 1 15506 20240820034228
+106.219.162.105 1 1 3184 20240812151758
+34.96.47.83 1 1 3721 20240815070324
+43.157.40.112 2 3 600491 20240822052325
+43.143.60.88 2 2 7448 20240813225557
+35.93.162.77 2 2 7442 20240816094928
+92.31.60.45 1 40 190928971 20240821052346
+152.42.170.16 2 2 31012 20240810020049
+93.158.91.237 1 1 3721 20240813184236
+212.24.108.42 6 6 22416 20240819032601
+123.149.85.129 1 1 3725 20240811202017
+198.235.24.172 2 2 31012 20240827184821
+150.109.13.194 6 10 18639326 20240818015715
+100.26.248.22 2 2 31012 20240806141503
+180.102.134.69 3 3 11167 20240829195809
+129.226.146.179 2 3 609053 20240805115614
+43.134.190.89 8 15 34541802 20240809122848
+161.35.150.150 1 1 3721 20240825014237
+42.237.178.84 1 5 95740 20240813163259
+134.209.117.85 1 1 3721 20240820085328
+43.133.72.69 5 8 20660316 20240814125548
+161.35.125.243 1 1 3721 20240818083659
+121.56.6.146 1 1 3725 20240827171102
+146.70.192.108 2 2 31012 20240808162557
+147.45.114.227 4 4 14884 20240817121957
+34.223.3.21 2 2 7448 20240824085617
+87.236.176.150 1 1 3732 20240820183039
+43.163.0.99 2 2 16012 20240829065323
+105.119.7.82 4 40 116816468 20240821114244
+203.2.64.59 1 1 3732 20240824042239
+129.226.158.26 5 5 35989 20240817120037
+43.135.166.178 2 2 7457 20240812115357
+84.247.105.152 1 5 95719 20240823162804
+178.254.24.91 1 1 3721 20240831114940
+170.106.159.160 3 3 22395 20240827033926
+35.95.250.129 1 1 3182 20240805162132
+52.250.48.155 6 6 57022 20240817144421
+102.165.16.219 2 2 31012 20240815010406
+182.42.111.213 1 1 3725 20240831121423
+94.247.172.129 1 1 3732 20240824205943
+49.13.219.136 1 1 3721 20240823194340
+43.155.169.133 8 13 28779360 20240816211107
+203.215.167.181 2 2 3706 20240805200722
+170.83.249.161 2 2 3704 20240825040510
+43.153.4.55 1 1 3732 20240814110552
+43.130.37.62 2 2 7459 20240811144414
+34.123.170.104 1 26 168844774 20240816070505
+34.216.192.150 1 30 87689939 20240802100038
+35.171.144.152 2 2 31024 20240820045311
+170.106.101.31 1 1 3721 20240818100931
+49.51.183.220 1 1 3721 20240823020117
+195.181.242.53 6 6 22416 20240802111849
+205.169.39.50 1 1 3725 20240827115950
+142.93.43.159 1 1 3721 20240822090950
+120.82.84.200 1 1 3725 20240828152943
+34.94.31.200 2 2 31012 20240806151357
+182.43.70.143 1 1 3732 20240820043805
+1.204.166.3 1 1 3725 20240830014539
+35.91.130.245 1 1 3721 20240806072214
+114.96.103.33 1 1 3725 20240828053004
+20.37.104.170 1 1 3721 20240804004931
+43.131.248.209 1 1 3732 20240823045525
+205.210.31.247 1 1 15518 20240826225013
+42.83.147.53 2 2 7442 20240827212151
+87.236.176.123 1 1 3725 20240820113303
+199.244.88.224 1 1 3727 20240828172344
+43.134.66.205 1 2 927423 20240812231306
+35.161.246.227 1 1 3182 20240807162037
+66.249.65.44 0 1 575691 
+54.243.8.50 1 1 15518 20240806141500
+43.131.243.208 3 8 27492442 20240808150550
+84.17.47.99 2 2 49768 20240814004146
+159.203.53.95 4 37 116097154 20240830080652
+45.92.1.17 1 1 3721 20240801122752
+135.148.195.4 1 1 3727 20240807225902
+206.168.34.43 1 1 3725 20240814105403
+5.133.192.136 1 1 3727 20240829205631
+43.155.138.79 3 8 19610773 20240812232312
+31.220.83.200 1 1 3721 20240807143627
+135.148.195.16 1 1 3727 20240827062754
+47.254.76.138 1 1 3721 20240816200209
+51.195.91.135 2 2 7452 20240819013328
+44.242.205.5 2 2 7442 20240830104905
+165.227.39.235 1 1 15506 20240816070504
+106.75.98.60 1 1 3721 20240825002408
+103.211.112.217 2 2 3707 20240802233330
+205.169.39.35 1 21 69774645 20240816071543
+43.131.62.4 4 5 599151 20240811115501
+3.68.89.5 1 1 3721 20240819211706
+51.81.245.138 1 1 3721 20240816070507
+68.183.245.101 4 38 122096328 20240830080536
+213.35.125.6 1 1 3721 20240805164037
+170.106.171.77 3 3 11178 20240808210249
+15.204.182.106 2 2 7452 20240817231830
+43.133.66.151 1 1 3721 20240802204653
+128.199.29.61 1 1 3732 20240808090508
+205.210.31.41 1 1 15518 20240816212858
+82.64.198.149 1 1 3721 20240816121403
+91.92.253.104 2 2 24420 20240801034641
+46.28.44.232 1 1 3721 20240825174922
+43.135.129.233 5 5 47180 20240812144928
+39.162.142.194 1 1 3725 20240816025717
+107.173.94.58 1 5 95717 20240826022549
+43.135.163.214 1 1 50128 20240815152916
+42.49.57.45 1 1 3725 20240810171810
+43.159.129.209 2 2 7457 20240806115607
+34.96.47.62 1 1 3721 20240814130456
+89.47.161.229 2 2 7470 20240810100837
+197.242.157.235 1 1 3721 20240816121347
+128.90.170.16 2 2 7442 20240812131348
+109.248.149.45 1 1 3721 20240809092626
+49.51.40.195 0 1 10544035 
+221.198.49.179 1 1 3721 20240826082142
+195.211.77.142 2 2 7442 20240816193705
+34.222.211.21 1 22 61554433 20240810081414
+94.156.65.181 1 1 3727 20240807113033
+161.35.115.166 1 1 3721 20240814083228
+43.163.8.148 5 6 640007 20240826032017
+159.203.190.176 1 1 3725 20240822010544
+54.191.229.191 1 28 51296028 20240814100529
+43.152.72.247 7 9 10697751 20240831192640
+35.160.132.4 1 1 3721 20240804074017
+125.75.66.97 2 2 7448 20240827140118
+36.129.87.5 1 1 3725 20240814050335
+185.177.125.173 1 1 3721 20240817162527
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240801 32 41 50437055 25
+20240802 30 43 210326771 20
+20240803 42 49 48050242 26
+20240804 33 43 21550390 21
+20240805 37 53 350968537 27
+20240806 39 54 235033640 30
+20240807 35 43 25396132 25
+20240808 35 80 569479128 28
+20240809 31 40 49823200 22
+20240810 26 42 143785188 20
+20240811 38 44 26334433 26
+20240812 30 47 154854588 22
+20240813 42 106 727891198 22
+20240814 48 80 436073822 32
+20240815 30 56 272250357 22
+20240816 61 98 848319771 48
+20240817 19 19 305821 13
+20240818 29 34 149836199 22
+20240819 14 14 258096 8
+20240820 26 48 662919398 19
+20240821 21 74 807879620 10
+20240822 19 27 174240644 12
+20240823 15 19 227595 12
+20240824 15 25 195872045 11
+20240825 47 81 91124554 19
+20240826 54 73 442243576 17
+20240827 19 35 319551405 15
+20240828 17 26 334549487 11
+20240829 17 32 365008044 11
+20240830 43 119 1292758674 23
+20240831 22 30 250242105 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 1
+30mn-1h 3
+5mn-15mn 1
+2mn-5mn 3
+0s-30s 616
+30s-2mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 54
+/ 554 2706862 491 389
+/blog/ 87 4033533 48 50
+/index.php 87 324531 0 87
+/Contact/ 36 825557 19 23
+/blog/wp-login.php 18 33353 9 9
+/blog/2024/02/07/single-layer-water-shaders/ 16 274188 8 7
+/blog/gamejams/ 16 239745 9 11
+/blog/2024/05/24/invision/ 15 336843 7 4
+/blog/2023/09/22/cadavar-of-callisto/ 14 254395 5 3
+/blog/2024/03/09/foques-sense-mechanic/ 13 239380 2 5
+/blog/2024/06/21/control-rigs-and-ik-rigging/ 12 240162 4 5
+/blog/2023/03/27/quintessence/ 11 190703 1 5
+/blog/wp-content/uploads/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWbW5iddG-1A.woff2 9 450576 0 2
+/blog/category/large-project/ 5 69792 0 2
+/blog/feed/ 5 89551 2 1
+/blog/wp-content/themes/extendable/assets/fonts/inter/InterVariable.woff2 4 1304432 0 3
+/blog/category/uncategorized/ 4 60355 0 1
+/blog/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/IBMPlexSans-Light.woff2 3 190488 1 2
+/blog/wp-content/themes/extendable/assets/fonts/RadioCanada/RadioCanada-VariableFont_wdth,wght.woff2 3 248772 1 1
+/blog/comments/feed/ 3 1308 3 1
+/blog/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/IBMPlexSans-Medium.woff2 3 191820 1 1
+/blog/wp-content/themes/extendable/assets/fonts/Arsenal/Arsenal-Regular.woff2 3 161088 2 1
+/blog/wp-content/themes/extendable/assets/fonts/Mulish/Mulish-VariableFont_wght.woff2 2 154344 0 0
+/wp-content/themes/seotheme/db.php 2 0 1 0
+/blog/wp-content/themes/extendable/assets/fonts/Hind/Hind-Variable.woff2 2 46912 2 0
+/blog/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/IBMPlexSans-SemiBold.woff2 1 64200 0 0
+/sitemap.xml 1 401 0 0
+/blog/wp-content/themes/extendable/assets/fonts/SpaceMono/SpaceMono-Bold.woff2 2 64192 0 0
+/blog/wp-content/themes/extendable/assets/fonts/Geom/Geom-Variable.woff2 1 39160 1 1
+/.well-known/ 2 1524 2 2
+/blog/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/IBMPlexSans-Regular.woff2 1 60172 0 0
+/blog/wp-content/themes/extendable/assets/fonts/Montserrat/Montserrat-VariableFont_wght.woff2 2 249848 1 0
+/blog/wp-content/themes/extendable/assets/fonts/Heebo/Heebo-VariableFont_wght.woff2 1 63808 0 0
+/blog/wp-content/themes/extendable/assets/fonts/manrope/manrope_wght.woff2 1 50128 1 1
+/blog/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/IBMPlexSans-Thin.woff2 1 59240 0 0
+/blog/wp-json/ 2 374038 1 1
+/blog/wp-content/themes/extendable/assets/fonts/SourceSerif4/SourceSerif4-VariableFont_opsz,wght.woff2 1 424172 1 1
+/blog/2023/09/22/cadavar-of-callisto/feed/ 1 456 0 0
+/blog/wp-content/themes/extendable/assets/fonts/Rubik/Rubik-VariableFont_wght.woff2 1 76868 0 1
+/blog/wp-content/themes/extendable/assets/fonts/Karla/Karla-VariableFont_wght.woff2 2 83248 2 1
+/blog/wp-content/themes/extendable/assets/fonts/marcellus/marcellus_wght.woff2 1 18408 1 0
+/blog/wp-json/wp/v2/posts/43 1 11954 0 1
+/blog/wp-content/uploads/fonts/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBM731BKMSK.woff2 1 63732 0 1
+/blog/wp-content/themes/extendable/assets/fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.woff2 2 300488 2 1
+/blog/wp-content/themes/extendable/assets/fonts/Oswald/Oswald-VariableFont_wght.woff2 1 70608 0 1
+/wp-plain.php 2 0 0 1
+/blog/wp-content/themes/extendable/assets/fonts/ibm-plex-sans/IBMPlexSans-ExtraLight.woff2 1 64072 0 0
+/blog/wp-content/themes/extendable/assets/fonts/Koulen/Koulen-Regular.woff2 1 20884 0 1
+/blog/wp-content/themes/extendable/assets/fonts/Arsenal/Arsenal-Bold.woff2 2 110040 0 1
+/blog/xmlrpc.php 1 316 1 1
+/blog/wp-content/themes/extendable/assets/fonts/baloo-tamma-2/baloo-tamma-2_wght.woff2 2 278568 1 2
+/blog/wp-json/oembed/1.0/embed 1 2185 1 0
+/blog/wp-content/themes/extendable/assets/fonts/gotu/gotu-regular.woff2 1 188260 1 0
+/blog/wp-admin/install.php 2 1008 1 2
+END_SIDER

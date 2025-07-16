@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: mwriliwv@server299.web-hosting.com
+Received: from server299.web-hosting.com
+	by server299.web-hosting.com with LMTP
+	id aJP5MlzWI2imcxcAm3x60g
+	(envelope-from <>)
+	for <mwriliwv@server299.web-hosting.com>; Tue, 13 May 2025 19:31:40 -0400
+Return-path: <>
+Envelope-to: mwriliwv@server299.web-hosting.com
+Delivery-date: Tue, 13 May 2025 19:31:40 -0400
+Received: from mailnull by server299.web-hosting.com with local (Exim 4.98.1)
+	id 1uEz64-00000006Voc-3UgU
+	for mwriliwv@server299.web-hosting.com;
+	Tue, 13 May 2025 19:31:40 -0400
+X-Failed-Recipients: matt0204@outlook.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server299.web-hosting.com>
+To: mwriliwv@server299.web-hosting.com
+References: <KxmhJlFLp6D2UIdR6x46qZiUCvb1tK4bmz11MCUOjjc@mwright0204.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1747179100-eximdsn-1691118645
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1uEz64-00000006Voc-3UgU@server299.web-hosting.com>
+Date: Tue, 13 May 2025 19:31:40 -0400
+
+--1747179100-eximdsn-1691118645
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  matt0204@outlook.com
+    Message discarded as high-probability spam
+
+--1747179100-eximdsn-1691118645
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server299.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;matt0204@outlook.com
+Status: 5.0.0
+
+--1747179100-eximdsn-1691118645
+Content-type: message/rfc822
+
+Return-path: <mwriliwv@server299.web-hosting.com>
+Received: from mwriliwv by server299.web-hosting.com with local (Exim 4.98.1)
+	(envelope-from <mwriliwv@server299.web-hosting.com>)
+	id 1uEz61-00000006Vk8-3HV1
+	for matt0204@outlook.com;
+	Tue, 13 May 2025 19:31:37 -0400
+To: matt0204@outlook.com
+Subject: =?us-ascii?Q?[Matthew_Wright's_Blog]_Please_moderate:_"Foxen?=
+ =?us-ascii?Q?_Island_(Contract)"?=
+Date: Tue, 13 May 2025 23:31:37 +0000
+From: WordPress <wordpress@mwright0204.com>
+Message-ID: <KxmhJlFLp6D2UIdR6x46qZiUCvb1tK4bmz11MCUOjjc@mwright0204.com>
+X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Sender:  <mwriliwv@server299.web-hosting.com>
+
+A new comment on the post "Foxen Island (Contract)" is waiting for your approval
+https://mwright0204.com/blog/2024/11/05/foxen-island-contract/
+
+Author: * * * Win Free Cash Instantly: http://ashtadashvidya.org/index.php?y2oe42 * * * hs=18bf81ba1d13305775d6caeec040bfe6* ххх* (IP address: 109.70.100.68, tor-exit-anonymizer.appliedprivacy.net)
+Email: pazapz@mailbox.in.ua
+URL: http://ashtadashvidya.org/index.php?y2oe42
+Comment: 
+gw48j2
+
+Approve it: https://mwright0204.com/blog/wp-admin/comment.php?action=approve&c=14#wpbody-content
+Trash it: https://mwright0204.com/blog/wp-admin/comment.php?action=trash&c=14#wpbody-content
+Spam it: https://mwright0204.com/blog/wp-admin/comment.php?action=spam&c=14#wpbody-content
+Currently 11 comments are waiting for approval. Please visit the moderation panel:
+https://mwright0204.com/blog/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--1747179100-eximdsn-1691118645--

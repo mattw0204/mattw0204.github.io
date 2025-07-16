@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: mwriliwv@server299.web-hosting.com
+Received: from server299.web-hosting.com
+	by server299.web-hosting.com with LMTP
+	id eNYqMeKmcGYymwYAm3x60g
+	(envelope-from <>)
+	for <mwriliwv@server299.web-hosting.com>; Mon, 17 Jun 2024 17:13:06 -0400
+Return-path: <>
+Envelope-to: mwriliwv@server299.web-hosting.com
+Delivery-date: Mon, 17 Jun 2024 17:13:06 -0400
+Received: from mailnull by server299.web-hosting.com with local (Exim 4.96.2)
+	id 1sJJf0-001odS-2a
+	for mwriliwv@server299.web-hosting.com;
+	Mon, 17 Jun 2024 17:13:06 -0400
+X-Failed-Recipients: matt0204@outlook.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server299.web-hosting.com>
+To: mwriliwv@server299.web-hosting.com
+References: <E1sJJez-001oce-39@server299.web-hosting.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718658786-eximdsn-649884766
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sJJf0-001odS-2a@server299.web-hosting.com>
+Date: Mon, 17 Jun 2024 17:13:06 -0400
+
+--1718658786-eximdsn-649884766
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  matt0204@outlook.com
+    host prod-lbout-phx.jellyfish.systems [162.255.118.36]
+    SMTP error from remote mail server after end of data:
+    554 5.7.1 Spam content detected in the message body. Reason:
+    JFE040001 https://www.namecheap.com/support/knowledgebase/article.aspx/10664/2216/jellyfish-error-codes/
+
+--1718658786-eximdsn-649884766
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server299.web-hosting.com
+
+Action: failed
+Final-Recipient: rfc822;matt0204@outlook.com
+Status: 5.0.0
+Remote-MTA: dns; prod-lbout-phx.jellyfish.systems
+Diagnostic-Code: smtp; 554 5.7.1 Spam content detected in the message body. Reason: JFE040001 https://www.namecheap.com/support/knowledgebase/article.aspx/10664/2216/jellyfish-error-codes/
+
+--1718658786-eximdsn-649884766
+Content-type: message/rfc822
+
+Return-path: <mwriliwv@server299.web-hosting.com>
+Received: from mwriliwv by server299.web-hosting.com with local (Exim 4.96.2)
+	(envelope-from <mwriliwv@server299.web-hosting.com>)
+	id 1sJJez-001oce-39
+	for matt0204@outlook.com;
+	Mon, 17 Jun 2024 17:13:05 -0400
+To: matt0204@outlook.com
+Subject: =?UTF-8?B?TmV3IEluc3RhbGxhdGlvbiBvZiBXb3JkUHJlc3M=?=
+X-PHP-Originating-Script: 0:mail_functions.php
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+From: Softaculous <softaculous@server299.web-hosting.com>
+Reply-To: softaculous@server299.web-hosting.com
+X-Mailer: PHP/8.1.28
+Message-Id: <E1sJJez-001oce-39@server299.web-hosting.com>
+Sender:  <mwriliwv@server299.web-hosting.com>
+Date: Mon, 17 Jun 2024 17:13:05 -0400
+
+A new installation of WordPress 6.5.4 has been completed. The details of the installation are shown below:
+Path : /home/mwriliwv/public_html
+URL : http://mwright0204.com
+Admin URL : http://mwright0204.com/wp-admin/
+Admin Username : gfjg4
+Admin Password : ********
+Admin Email: matt0204@outlook.com
+MySQL Database : mwriliwv_wp847
+MySQL DB User : mwriliwv_wp847
+MySQL DB Host : localhost
+MySQL DB Password : ********
+Update Notification : Enabled
+Auto Upgrade : Enabled (Minor)
+Automated Backups : Disabled
+Time of Installation : June 17, 2024, 5:13 pm
+
+If you wish to unsubscribe from such emails, go to your Control Panel -> Softaculous -> Email Settings
+
+
+--1718658786-eximdsn-649884766--
